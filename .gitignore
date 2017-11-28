@@ -1,0 +1,17 @@
+.settings/
+.classpath
+.project
+tmp/
+target/
+logs/
+.idea/
+build/
+out/
+.svn/
+.class
+*.iml
+src/main/webapp/WEB-INF/classes/
+classes/
+bin/
+.DS_Store
+
